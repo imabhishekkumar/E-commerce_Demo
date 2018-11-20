@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/baseline_supervised_user_circle_24"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_wishlist"
+            android:icon="@drawable/baseline_view_list_24"
+            android:title="@string/wishlist" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/baseline_shopping_cart_24"
+            android:title="@string/cart" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/baseline_exit_to_app_24"
+            android:title="@string/logout" />
+    </group>
+
+
+
+</menu>
