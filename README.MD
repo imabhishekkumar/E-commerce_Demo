@@ -14,14 +14,14 @@
 
 ###  Main Screen
 
-![](https://user-images.githubusercontent.com/25135073/48820923-0d9eb580-ed7d-11e8-96fc-329ad12346c2.png)
+<img src="screenshots/Olmart_loginpage.png" width="350">
 
 
 ###  Login Screen
 
-![](https://user-images.githubusercontent.com/25135073/48820924-0e374c00-ed7d-11e8-80ee-4a281ec59d26.png)
+<img src="screenshots/Olmart_main.png" width="350">
 
 ###  Register Screen
 
-![](https://user-images.githubusercontent.com/25135073/48820926-0ecfe280-ed7d-11e8-8b49-37fa94452dd5.png)
+<img src="screenshots/Olmart_register.png" width="350">
 
