@@ -12,12 +12,12 @@
 
 # Screenshots
 
-###  Main Screen
+### Login  Screen
 
 <img src="screenshots/Olmart_loginpage.png" width="350">
 
 
-###  Login Screen
+###  Main Screen
 
 <img src="screenshots/Olmart_main.png" width="350">
 
